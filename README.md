@@ -45,7 +45,7 @@ Some guides focus on beginner and entry-level positions, while others will progr
 
 | Role | Level | Guide |
 |---|---|---|
-| Help Desk / Service Desk | Beginner → Early L2 | [Open Guide](guides/help-desk-service-desk/) |
+| Help Desk / Service Desk | Beginner → Early L2 | [Open Guide](guides/help-desk-service-desk-pocket-interview-guide/) |
 
 More role-based guides are under development.
 
@@ -140,7 +140,7 @@ Topics include:
 - Interview performance
 - Mock interviews and revision
 
-➡️ [Explore the Help Desk and Service Desk Guide](guides/help-desk-service-desk/)
+➡️ [Explore the Help Desk and Service Desk Guide](guides/help-desk-service-desk-pocket-interview-guide/)
 
 ---
 
