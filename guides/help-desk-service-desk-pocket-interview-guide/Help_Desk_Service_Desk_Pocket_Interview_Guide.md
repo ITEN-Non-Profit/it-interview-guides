@@ -1,5 +1,3 @@
-![](media/image1.png){width="6.692361111111111in" height="9.456944444444444in"}
-
 **Help Desk and Service Desk Pocket Interview Guide**
 
 Stages 1 to 5: 86 interview questions with answers, follow-ups, scenarios, and revision tools
