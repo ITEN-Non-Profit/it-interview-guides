@@ -8,7 +8,7 @@ This open learning guide turns networking theory into **real troubleshooting and
 
 > **Learn the concept. Troubleshoot the fault. Explain the “why.”**
 
-[**Read the Complete Guide →**](./NOC-Engineer-Interview-Preparation-Guide/NOC-Engineer-Interview-Preparation-Guide.md)
+[**Read the Complete Guide →**](https://github.com/ITEN-Non-Profit/it-interview-guides/blob/main/guides/NOC-Engineer-Interview-Preparation-Guide/NOC-Engineer-Interview-Preparation-Guide.md)
 
 ---
 
@@ -57,6 +57,7 @@ The goal is not to memorise 108 answers. It is to build the troubleshooting mind
 
 **Jiwan Bhattarai** — CCIE #60261, CEH  
 Founder, **IT Education Nepal**
+💼 https://www.linkedin.com/in/jiwanbhattarai  
 
 IT Education Nepal is a volunteer-driven non-profit initiative focused on practical computer education and helping learners bridge the gap between academic theory and job-ready IT skills.
 
@@ -64,7 +65,6 @@ IT Education Nepal is a volunteer-driven non-profit initiative focused on practi
 **Vision:** *10,000 quality IT engineers — from Nepal to the world.*
 
 🌐 https://iteducationnepal.org  
-💼 https://www.linkedin.com/in/jiwanbhattarai  
 ▶️ https://www.youtube.com/@iteducationnepal  
 💻 https://github.com/ITEN-Non-Profit
 
