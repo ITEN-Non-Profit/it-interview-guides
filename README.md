@@ -45,8 +45,13 @@ Some guides focus on beginner and entry-level positions, while others will progr
 
 | Role | Level | Guide |
 |---|---|---|
+<<<<<<< HEAD
 | Help Desk / Service Desk | Beginner → Early L2 | [Open Guide](guides/help-desk-service-desk-pocket-interview-guide/) |
 
+=======
+| Help Desk / Service Desk | Beginner → Early L2 | [Open Guide](guides/help-desk-service-desk/) |
+NOC-Engineer| Early L1 → L3 | [Open Guide](guides/NOC-Engineer-Interview-Preparation-Guide/) |
+>>>>>>> 281ff7f (NOC Interview Preparation Book Added)
 More role-based guides are under development.
 
 ### Planned Areas
@@ -61,6 +66,7 @@ Future guides may cover:
 **Networking**
 - Network Support Engineer
 - Network Engineer
+- Network Operation Center (NOC) Engineer 
 - Senior Network Engineer
 - Network Security Engineer
 
