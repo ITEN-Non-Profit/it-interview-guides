@@ -45,13 +45,10 @@ Some guides focus on beginner and entry-level positions, while others will progr
 
 | Role | Level | Guide |
 |---|---|---|
-<<<<<<< HEAD
 | Help Desk / Service Desk | Beginner → Early L2 | [Open Guide](guides/help-desk-service-desk-pocket-interview-guide/) |
+| NOC Engineer | Early L1 → L3 | [Open Guide](guides/NOC-Engineer-Interview-Preparation-Guide/) |
 
-=======
-| Help Desk / Service Desk | Beginner → Early L2 | [Open Guide](guides/help-desk-service-desk/) |
-NOC-Engineer| Early L1 → L3 | [Open Guide](guides/NOC-Engineer-Interview-Preparation-Guide/) |
-More role-based guides are under development.
+> More role-based interview guides are under development.
 
 ### Planned Areas
 
