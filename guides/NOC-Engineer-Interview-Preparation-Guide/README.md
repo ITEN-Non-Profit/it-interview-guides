@@ -68,13 +68,25 @@ IT Education Nepal is a volunteer-driven non-profit initiative focused on practi
 ▶️ https://www.youtube.com/@iteducationnepal  
 💻 https://github.com/ITEN-Non-Profit
 
-## Licence
+## License
 
-The book text is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**. You may share and adapt it with appropriate attribution.
+The current version of this guide is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
+
+You may share and adapt the original educational content for noncommercial purposes, provided that you:
+
+- Give appropriate attribution
+- Link to the applicable license
+- Indicate whether changes were made
+- Distribute shared adaptations under the same license
 
 Suggested attribution:
 
-> *NOC Engineer Interview Preparation Guide* by Jiwan Bhattarai, IT Education Nepal — CC BY 4.0.
+> *NOC Engineer Interview Preparation Guide* by Jiwan Bhattarai, published by IT Education Nepal (ITEN). Licensed under CC BY-NC-SA 4.0.  
+> https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+See the repository [`LICENSE.md`](../../LICENSE.md) for complete terms, exclusions, third-party-material notices, and license-version history.
+
+> **Previous versions:** Earlier copies may have been distributed under CC BY 4.0. Rights already granted for those copies remain valid under their accompanying license.
 
 ---
 
