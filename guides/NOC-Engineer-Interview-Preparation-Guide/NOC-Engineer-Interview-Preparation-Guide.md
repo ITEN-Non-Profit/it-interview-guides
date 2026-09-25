@@ -38,19 +38,26 @@ helps the next reader. Corrections that add a primary standard reference
 are especially valued. A suggested new scenario should include a way to
 verify it.
 
-**Licence.** This work is licensed under the Creative Commons
-Attribution 4.0 International Licence (CC BY 4.0). You may copy,
-redistribute, adapt and build upon it for any purpose, including
-commercially, provided you give appropriate credit, provide a link to
-the licence, and indicate whether changes were made. Full licence text:
-https://creativecommons.org/licenses/by/4.0/
+**License.** The current version of this work is licensed under the
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+License (CC BY-NC-SA 4.0).
 
-Suggested attribution: *"NOC Engineer Interview Preparation Guide" by
-Jiwan Bhattarai, IT Education Nepal, licensed under CC BY 4.0.*
+You may copy, redistribute, and adapt the original educational content
+for noncommercial purposes, provided that you give appropriate credit,
+link to the license, indicate whether changes were made, and distribute
+shared adaptations under the same license.
 
-The licence covers the text of this book. It does not cover the
-standards, papers and vendor documents referenced in it, which remain
-the property of their publishers. It grants no rights in any trademark.
+Full license text:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en
+
+Suggested attribution: *NOC Engineer Interview Preparation Guide* by
+Jiwan Bhattarai, published by IT Education Nepal (ITEN). Licensed under
+CC BY-NC-SA 4.0.
+
+The license covers original educational content for which the copyright
+holder has authority to grant this license. It does not grant rights to
+third-party standards, publications, vendor documentation, trademarks,
+screenshots, or other material belonging to their respective owners.
 
 **Trademarks.** Cisco, Cisco IOS, IOS XE, Catalyst, ASA and Packet
 Tracer are trademarks or registered trademarks of Cisco Systems,
